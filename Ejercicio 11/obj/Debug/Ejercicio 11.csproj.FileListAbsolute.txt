@@ -1,0 +1,20 @@
+C:\Users\Gómez Parada\Downloads\Ejercicios_Formulario\Ejercicio 11\bin\Debug\Ejercicio 11.exe.config
+C:\Users\Gómez Parada\Downloads\Ejercicios_Formulario\Ejercicio 11\bin\Debug\Ejercicio 11.exe
+C:\Users\Gómez Parada\Downloads\Ejercicios_Formulario\Ejercicio 11\bin\Debug\Ejercicio 11.pdb
+C:\Users\Gómez Parada\Downloads\Ejercicios_Formulario\Ejercicio 11\obj\Debug\Ejercicio 11.csproj.AssemblyReference.cache
+C:\Users\Gómez Parada\Downloads\Ejercicios_Formulario\Ejercicio 11\obj\Debug\Ejercicio_11.frmCalcularPrecioDescuento.resources
+C:\Users\Gómez Parada\Downloads\Ejercicios_Formulario\Ejercicio 11\obj\Debug\Ejercicio_11.Properties.Resources.resources
+C:\Users\Gómez Parada\Downloads\Ejercicios_Formulario\Ejercicio 11\obj\Debug\Ejercicio 11.csproj.GenerateResource.cache
+C:\Users\Gómez Parada\Downloads\Ejercicios_Formulario\Ejercicio 11\obj\Debug\Ejercicio 11.csproj.CoreCompileInputs.cache
+C:\Users\Gómez Parada\Downloads\Ejercicios_Formulario\Ejercicio 11\obj\Debug\Ejercicio 11.exe
+C:\Users\Gómez Parada\Downloads\Ejercicios_Formulario\Ejercicio 11\obj\Debug\Ejercicio 11.pdb
+C:\Users\Gómez Parada\Downloads\Ejercicios_Formulario 3\Ejercicio 11\bin\Debug\Ejercicio 11.exe.config
+C:\Users\Gómez Parada\Downloads\Ejercicios_Formulario 3\Ejercicio 11\bin\Debug\Ejercicio 11.exe
+C:\Users\Gómez Parada\Downloads\Ejercicios_Formulario 3\Ejercicio 11\bin\Debug\Ejercicio 11.pdb
+C:\Users\Gómez Parada\Downloads\Ejercicios_Formulario 3\Ejercicio 11\obj\Debug\Ejercicio 11.csproj.AssemblyReference.cache
+C:\Users\Gómez Parada\Downloads\Ejercicios_Formulario 3\Ejercicio 11\obj\Debug\Ejercicio_11.frmCalcularPrecioDescuento.resources
+C:\Users\Gómez Parada\Downloads\Ejercicios_Formulario 3\Ejercicio 11\obj\Debug\Ejercicio_11.Properties.Resources.resources
+C:\Users\Gómez Parada\Downloads\Ejercicios_Formulario 3\Ejercicio 11\obj\Debug\Ejercicio 11.csproj.GenerateResource.cache
+C:\Users\Gómez Parada\Downloads\Ejercicios_Formulario 3\Ejercicio 11\obj\Debug\Ejercicio 11.csproj.CoreCompileInputs.cache
+C:\Users\Gómez Parada\Downloads\Ejercicios_Formulario 3\Ejercicio 11\obj\Debug\Ejercicio 11.exe
+C:\Users\Gómez Parada\Downloads\Ejercicios_Formulario 3\Ejercicio 11\obj\Debug\Ejercicio 11.pdb
